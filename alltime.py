@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 import time
+import json
+import requests
+
 from unicornhatmini import UnicornHATMini
 
 unicornhatmini = UnicornHATMini()
@@ -217,6 +220,9 @@ def getdate():
     return date_array
 
 def gethue(twentyfour):
+    r = 255
+    g = 255
+    b = 255
     if (twentyfour > 20 and twentyfour <= 23) or (twentyfour >= 0 and twentyfour < 6):
         r = 255
         g = 0
@@ -260,7 +266,54 @@ def hourflash():
     time.sleep(.1)
 
 def showpurple(action):
-    print(action)
+    jURL = "http://192.168.1.195/json?live=false"
+    jsn = requests.get(jURL).json()
+
+    celsius = int((int(jsn["current_temp_f"]) - 32) * 5 / 9) 
+    air_qual = int(jsn["pm2.5_aqi_b"])
+    humidity = int(jsn["current_humidity"])
+    pressure = int(jsn["pressure"])
+
+    rgb = [255, 255, 255]
+    unicornhatmini.clear()
+
+    for measure in [celsius, humidity, pressure, air_qual]:
+        measarray = [int(a) for a in str(measure)]
+        if len(measarray) == 4:
+            pos = 0
+        if len(measarray) == 3:
+            pos = 1
+        if len(measarray) == 2:
+            pos = 2
+        if len(measarray) == 1:
+            pos = 3
+
+        for measdigit in measarray:
+            if measdigit == 1:
+                one(pos, rgb)
+            if measdigit == 2:
+                two(pos, rgb)
+            if measdigit == 3:
+                three(pos, rgb)
+            if measdigit == 4:
+                four(pos, rgb)
+            if measdigit == 5:
+                five(pos, rgb)
+            if measdigit == 6:
+                six(pos, rgb)
+            if measdigit == 7:
+                seven(pos, rgb)
+            if measdigit == 8:
+                eight(pos, rgb)
+            if measdigit == 9:
+                nine(pos, rgb)
+            if measdigit == 0:
+                zero(pos, rgb)
+            pos += 1
+
+        unicornhatmini.show()
+        time.sleep(3)
+        unicornhatmini.clear()
 
 # MAIN LOOP
 while True:
@@ -269,8 +322,7 @@ while True:
     rgb = gethue(tf)
     getbright(tf)
 
-#    if time_array[2] == 0 and time_array[3] == 0 and hourlyflash == True:
-    if time_array[3] == 0 and hourlyflash == True:
+    if time_array[2] == 0 and time_array[3] == 0 and hourlyflash == True:
         if once == 0:
             hourflash()
             once = 1
@@ -280,7 +332,7 @@ while True:
     for pos in range(len(time_array)):
         if pos == 0:
             if time_array[pos] == 1:
-                one(pos)
+                one(pos, rgb)
         else:
             if time_array[pos] == 1:
                 one(pos, rgb)
