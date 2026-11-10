@@ -1,0 +1,8006 @@
+[
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "05:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "05:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "05:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "05:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "05:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "05:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "05:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "06:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "06:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "06:07",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "06:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "06:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "06:22",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "06:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "06:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "06:37",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "06:37",
+    "final_destination": "Northgate station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "06:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "06:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "06:52",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "07:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "07:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "07:07",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "07:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "07:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "07:22",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "07:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "4",
+    "departure_time": "07:32",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "07:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "07:37",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "4",
+    "departure_time": "07:40",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "07:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "07:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "4",
+    "departure_time": "07:52",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "07:53",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "08:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "08:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "4",
+    "departure_time": "08:07",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "08:08",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "08:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "08:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "08:22",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "08:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "08:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "08:37",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "08:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "08:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "08:52",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "09:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "09:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "09:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "09:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "09:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "09:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "09:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "09:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "10:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "10:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "10:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "10:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "10:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "10:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "10:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "10:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "11:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "11:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "11:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "11:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "11:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "11:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "11:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "11:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "12:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "12:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "12:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "12:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "12:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "12:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "12:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "12:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "13:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "13:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "13:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "13:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "13:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "13:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "13:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "13:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "14:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "14:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "14:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "14:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "14:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "14:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "14:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "14:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "15:00",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "15:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "15:10",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "15:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "15:18",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "15:25",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "15:30",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "15:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "15:40",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "15:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "15:48",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "15:55",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "16:00",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "16:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "16:10",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "16:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "16:18",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "16:25",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "16:30",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "16:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "16:39",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "16:43",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "16:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "16:48",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "16:55",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "17:00",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "17:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "17:07",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "17:10",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "17:14",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "17:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "17:18",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "17:23",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "17:25",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "17:28",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "17:30",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "17:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "17:40",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "17:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "17:48",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "17:55",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "18:00",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "18:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "18:10",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "18:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "18:18",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "18:25",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "18:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "18:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "18:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "18:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "19:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "19:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "19:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "19:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "19:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "19:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "19:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "19:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "20:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "20:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "20:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "20:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "20:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "20:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "20:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "20:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "21:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "21:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "21:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "21:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "21:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "21:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "21:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "21:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "22:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "22:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "22:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "22:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "22:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "22:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "22:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "22:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "22:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "22:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "23:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "23:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "23:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "23:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "23:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "23:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "23:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "2",
+    "departure_time": "23:45",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "23:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "monday",
+    "platform": "1",
+    "departure_time": "23:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "00:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "00:15",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "00:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "00:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "05:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "05:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "05:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "05:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "05:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "05:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "05:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "06:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "06:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "06:07",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "06:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "06:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "06:22",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "06:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "06:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "06:37",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "06:37",
+    "final_destination": "Northgate station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "06:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "06:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "06:52",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "07:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "07:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "07:07",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "07:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "07:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "07:22",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "07:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "4",
+    "departure_time": "07:32",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "07:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "07:37",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "4",
+    "departure_time": "07:40",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "07:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "07:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "4",
+    "departure_time": "07:52",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "07:53",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "08:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "08:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "4",
+    "departure_time": "08:07",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "08:08",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "08:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "08:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "08:22",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "08:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "08:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "08:37",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "08:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "08:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "08:52",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "09:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "09:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "09:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "09:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "09:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "09:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "09:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "09:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "10:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "10:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "10:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "10:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "10:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "10:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "10:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "10:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "11:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "11:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "11:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "11:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "11:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "11:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "11:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "11:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "12:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "12:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "12:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "12:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "12:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "12:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "12:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "12:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "13:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "13:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "13:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "13:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "13:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "13:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "13:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "13:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "14:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "14:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "14:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "14:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "14:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "14:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "14:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "14:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "15:00",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "15:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "15:10",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "15:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "15:18",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "15:25",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "15:30",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "15:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "15:40",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "15:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "15:48",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "15:55",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "16:00",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "16:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "16:10",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "16:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "16:18",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "16:25",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "16:30",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "16:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "16:39",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "16:43",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "16:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "16:48",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "16:55",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "17:00",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "17:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "17:07",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "17:10",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "17:14",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "17:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "17:18",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "17:23",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "17:25",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "17:28",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "17:30",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "17:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "17:40",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "17:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "17:48",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "17:55",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "18:00",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "18:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "18:10",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "18:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "18:18",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "18:25",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "18:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "18:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "18:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "18:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "19:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "19:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "19:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "19:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "19:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "19:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "19:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "19:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "20:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "20:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "20:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "20:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "20:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "20:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "20:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "20:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "21:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "21:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "21:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "21:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "21:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "21:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "21:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "21:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "22:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "22:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "22:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "22:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "22:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "22:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "22:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "22:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "22:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "22:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "23:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "23:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "23:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "23:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "23:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "23:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "23:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "2",
+    "departure_time": "23:45",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "23:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "tuesday",
+    "platform": "1",
+    "departure_time": "23:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "00:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "00:15",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "00:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "00:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "05:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "05:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "05:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "05:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "05:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "05:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "05:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "06:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "06:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "06:07",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "06:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "06:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "06:22",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "06:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "06:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "06:37",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "06:37",
+    "final_destination": "Northgate station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "06:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "06:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "06:52",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "07:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "07:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "07:07",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "07:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "07:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "07:22",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "07:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "4",
+    "departure_time": "07:32",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "07:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "07:37",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "4",
+    "departure_time": "07:40",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "07:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "07:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "4",
+    "departure_time": "07:52",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "07:53",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "08:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "08:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "4",
+    "departure_time": "08:07",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "08:08",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "08:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "08:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "08:22",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "08:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "08:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "08:37",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "08:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "08:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "08:52",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "09:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "09:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "09:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "09:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "09:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "09:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "09:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "09:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "10:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "10:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "10:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "10:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "10:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "10:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "10:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "10:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "11:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "11:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "11:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "11:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "11:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "11:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "11:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "11:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "12:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "12:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "12:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "12:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "12:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "12:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "12:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "12:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "13:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "13:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "13:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "13:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "13:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "13:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "13:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "13:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "14:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "14:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "14:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "14:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "14:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "14:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "14:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "14:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "15:00",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "15:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "15:10",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "15:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "15:18",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "15:25",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "15:30",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "15:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "15:40",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "15:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "15:48",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "15:55",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "16:00",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "16:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "16:10",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "16:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "16:18",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "16:25",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "16:30",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "16:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "16:39",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "16:43",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "16:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "16:48",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "16:55",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "17:00",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "17:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "17:07",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "17:10",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "17:14",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "17:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "17:18",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "17:23",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "17:25",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "17:28",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "17:30",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "17:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "17:40",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "17:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "17:48",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "17:55",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "18:00",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "18:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "18:10",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "18:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "18:18",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "18:25",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "18:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "18:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "18:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "18:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "19:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "19:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "19:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "19:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "19:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "19:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "19:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "19:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "20:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "20:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "20:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "20:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "20:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "20:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "20:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "20:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "21:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "21:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "21:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "21:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "21:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "21:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "21:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "21:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "22:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "22:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "22:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "22:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "22:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "22:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "22:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "22:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "22:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "22:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "23:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "23:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "23:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "23:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "23:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "23:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "23:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "2",
+    "departure_time": "23:45",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "23:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "wednesday",
+    "platform": "1",
+    "departure_time": "23:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "00:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "00:15",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "00:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "00:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "05:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "05:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "05:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "05:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "05:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "05:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "05:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "06:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "06:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "06:07",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "06:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "06:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "06:22",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "06:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "06:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "06:37",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "06:37",
+    "final_destination": "Northgate station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "06:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "06:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "06:52",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "07:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "07:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "07:07",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "07:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "07:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "07:22",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "07:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "4",
+    "departure_time": "07:32",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "07:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "07:37",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "4",
+    "departure_time": "07:40",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "07:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "07:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "4",
+    "departure_time": "07:52",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "07:53",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "08:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "08:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "4",
+    "departure_time": "08:07",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "08:08",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "08:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "08:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "08:22",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "08:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "08:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "08:37",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "08:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "08:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "08:52",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "09:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "09:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "09:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "09:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "09:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "09:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "09:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "09:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "10:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "10:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "10:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "10:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "10:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "10:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "10:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "10:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "11:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "11:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "11:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "11:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "11:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "11:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "11:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "11:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "12:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "12:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "12:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "12:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "12:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "12:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "12:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "12:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "13:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "13:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "13:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "13:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "13:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "13:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "13:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "13:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "14:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "14:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "14:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "14:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "14:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "14:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "14:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "14:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "15:00",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "15:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "15:10",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "15:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "15:18",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "15:25",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "15:30",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "15:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "15:40",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "15:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "15:48",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "15:55",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "16:00",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "16:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "16:10",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "16:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "16:18",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "16:25",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "16:30",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "16:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "16:39",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "16:43",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "16:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "16:48",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "16:55",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "17:00",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "17:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "17:07",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "17:10",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "17:14",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "17:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "17:18",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "17:23",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "17:25",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "17:28",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "17:30",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "17:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "17:40",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "17:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "17:48",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "17:55",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "18:00",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "18:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "18:10",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "18:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "18:18",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "18:25",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "18:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "18:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "18:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "18:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "19:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "19:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "19:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "19:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "19:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "19:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "19:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "19:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "20:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "20:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "20:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "20:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "20:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "20:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "20:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "20:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "21:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "21:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "21:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "21:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "21:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "21:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "21:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "21:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "22:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "22:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "22:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "22:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "22:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "22:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "22:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "22:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "22:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "22:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "23:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "23:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "23:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "23:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "23:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "23:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "23:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "2",
+    "departure_time": "23:45",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "thursday",
+    "platform": "1",
+    "departure_time": "23:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "00:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "00:15",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "00:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "00:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "05:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "05:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "05:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "05:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "05:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "05:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "05:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "06:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "06:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "06:07",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "06:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "06:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "06:22",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "06:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "06:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "06:37",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "06:37",
+    "final_destination": "Northgate station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "06:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "06:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "06:52",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "07:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "07:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "07:07",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "07:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "07:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "07:22",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "07:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "4",
+    "departure_time": "07:32",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "07:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "07:37",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "4",
+    "departure_time": "07:40",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "07:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "07:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "4",
+    "departure_time": "07:52",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "07:53",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "08:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "08:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "4",
+    "departure_time": "08:07",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "08:08",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "08:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "08:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "08:22",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "08:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "08:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "08:37",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "08:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "08:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "08:52",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "09:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "09:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "09:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "09:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "09:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "09:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "09:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "09:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "10:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "10:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "10:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "10:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "10:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "10:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "10:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "10:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "11:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "11:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "11:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "11:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "11:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "11:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "11:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "11:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "12:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "12:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "12:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "12:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "12:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "12:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "12:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "12:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "13:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "13:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "13:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "13:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "13:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "13:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "13:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "13:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "14:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "14:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "14:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "14:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "14:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "14:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "14:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "14:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "15:00",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "15:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "15:10",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "15:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "15:18",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "15:25",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "15:30",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "15:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "15:40",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "15:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "15:48",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "15:55",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "16:00",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "16:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "16:10",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "16:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "16:18",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "16:25",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "16:30",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "16:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "16:39",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "16:43",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "16:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "16:48",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "16:55",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "17:00",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "17:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "17:07",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "17:14",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "17:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "17:18",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "17:23",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "17:28",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "17:30",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "17:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "17:40",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "17:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "17:48",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "17:55",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "18:00",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "18:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "18:10",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "18:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "18:18",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "18:25",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "18:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "18:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "18:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "18:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "19:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "19:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "19:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "19:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "19:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "19:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "19:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "19:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "20:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "20:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "20:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "20:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "20:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "20:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "20:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "20:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "21:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "21:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "21:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "21:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "21:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "21:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "21:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "21:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "22:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "22:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "22:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "22:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "22:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "22:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "22:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "22:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "23:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "23:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "23:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "23:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "23:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "23:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "2",
+    "departure_time": "23:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "friday",
+    "platform": "1",
+    "departure_time": "23:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "00:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "00:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "00:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "00:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "00:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "00:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "00:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "01:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "01:15",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "01:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "04:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "05:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "05:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "06:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "06:05",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "06:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "06:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "06:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "06:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "06:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "06:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "07:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "07:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "07:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "07:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "07:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "07:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "07:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "07:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "08:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "08:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "08:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "08:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "08:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "08:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "08:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "08:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "09:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "09:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "09:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "09:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "09:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "09:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "09:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "09:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "10:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "10:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "10:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "10:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "10:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "10:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "10:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "10:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "11:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "11:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "11:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "11:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "11:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "11:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "11:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "11:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "11:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "11:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "12:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "12:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "12:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "12:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "12:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "12:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "12:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "12:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "12:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "12:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "13:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "13:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "13:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "13:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "13:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "13:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "13:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "13:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "13:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "13:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "14:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "14:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "14:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "14:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "14:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "14:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "14:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "14:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "14:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "14:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "15:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "15:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "15:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "15:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "15:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "15:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "15:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "15:35",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "15:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "15:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "15:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "15:54",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "4",
+    "departure_time": "15:56",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "16:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "16:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "16:06",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "16:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "16:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "16:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "16:24",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "4",
+    "departure_time": "16:26",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "16:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "16:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "16:36",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "4",
+    "departure_time": "16:39",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "16:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "16:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "16:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "16:54",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "4",
+    "departure_time": "16:56",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "17:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "17:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "17:06",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "4",
+    "departure_time": "17:10",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "17:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "17:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "17:21",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "17:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "17:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "17:36",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "4",
+    "departure_time": "17:41",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "17:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "17:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "17:51",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "4",
+    "departure_time": "17:56",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "18:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "18:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "18:06",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "18:13",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "18:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "18:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "18:21",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "18:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "18:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "18:36",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "18:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "18:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "18:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "19:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "19:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "19:06",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "19:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "4",
+    "departure_time": "19:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "19:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "3",
+    "departure_time": "19:21",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "19:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "4",
+    "departure_time": "19:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "19:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "3",
+    "departure_time": "19:35",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "19:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "4",
+    "departure_time": "19:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "19:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "3",
+    "departure_time": "19:50",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "3",
+    "departure_time": "19:56",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "20:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "4",
+    "departure_time": "20:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "20:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "3",
+    "departure_time": "20:08",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "3",
+    "departure_time": "20:12",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "20:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "4",
+    "departure_time": "20:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "20:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "3",
+    "departure_time": "20:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "3",
+    "departure_time": "20:29",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "20:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "4",
+    "departure_time": "20:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "20:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "3",
+    "departure_time": "20:35",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "3",
+    "departure_time": "20:42",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "20:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "4",
+    "departure_time": "20:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "20:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "3",
+    "departure_time": "20:50",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "3",
+    "departure_time": "20:59",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "21:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "4",
+    "departure_time": "21:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "21:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "3",
+    "departure_time": "21:05",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "3",
+    "departure_time": "21:14",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "21:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "4",
+    "departure_time": "21:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "21:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "3",
+    "departure_time": "21:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "21:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "4",
+    "departure_time": "21:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "3",
+    "departure_time": "21:31",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "21:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "3",
+    "departure_time": "21:35",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "3",
+    "departure_time": "21:44",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "21:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "4",
+    "departure_time": "21:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "21:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "3",
+    "departure_time": "21:51",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "22:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "4",
+    "departure_time": "22:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "22:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "22:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "4",
+    "departure_time": "22:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "22:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "3",
+    "departure_time": "22:19",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "22:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "22:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "22:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "22:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "3",
+    "departure_time": "22:49",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "23:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "23:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "23:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "23:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "23:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "23:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "2",
+    "departure_time": "23:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "saturday",
+    "platform": "1",
+    "departure_time": "23:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "00:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "00:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "00:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "00:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "00:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "01:15",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "01:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "04:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "05:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "06:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "06:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "06:52",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "07:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "07:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "07:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "07:52",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "08:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "08:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "08:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "08:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "08:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "09:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "09:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "09:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "09:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "09:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "09:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "10:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "10:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "10:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "10:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "10:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "10:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "10:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "10:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "11:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "11:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "11:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "11:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "11:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "11:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "11:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "11:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "11:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "11:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "12:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "12:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "12:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "12:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "12:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "12:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "12:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "12:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "12:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "12:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "13:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "13:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "13:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "13:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "13:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "13:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "13:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "13:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "13:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "13:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "14:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "14:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "14:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "14:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "14:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "14:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "14:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "14:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "14:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "14:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "15:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "15:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "15:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "15:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "15:22",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "15:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "15:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "15:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "15:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "15:52",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "16:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "16:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "16:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "16:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "16:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "16:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "16:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "16:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "17:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "17:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "17:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "17:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "17:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "17:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "17:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "17:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "18:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "18:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "18:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "18:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "18:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "18:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "18:45",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "18:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "19:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "19:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "19:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "19:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "19:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "19:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "19:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "19:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "20:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "20:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "20:15",
+    "final_destination": "Nambour station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "20:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "20:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "20:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "20:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "20:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "21:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "21:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "21:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "21:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "21:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "21:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "21:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "21:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "22:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "22:03",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "22:15",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "22:18",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "22:30",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "22:33",
+    "final_destination": "Springfield Central station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "22:45",
+    "final_destination": "Caboolture station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "22:48",
+    "final_destination": "Ipswich station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "23:00",
+    "final_destination": "Kippa-Ring station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "2",
+    "departure_time": "23:15",
+    "final_destination": "Bowen Hills station"
+  },
+  {
+    "day_of_week": "sunday",
+    "platform": "1",
+    "departure_time": "23:18",
+    "final_destination": "Ipswich station"
+  }
+]
