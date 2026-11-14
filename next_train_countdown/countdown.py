@@ -11,6 +11,7 @@ from datetime import datetime, time, timedelta
 from pathlib import Path
 from typing import Any
 
+import requests
 import RPi.GPIO as GPIO
 from unicornhatmini import UnicornHATMini
 hat = UnicornHATMini()
@@ -129,7 +130,7 @@ def render_number(value: int, hat=None, x: int = 0, y: int = 0, color=(255, 255,
             if bit == "1":
                 hat.set_pixel(x + col_index, y + row_index, *color) 
 
-def render_arrows(hat=None, color=(32, 4, 4), direction="inbound") -> None:
+def render_arrows(hat=None, color=(48, 16, 16), direction="inbound") -> None:
     """Render arrows on the Unicorn HAT Mini."""
     if hat is None:
         return
@@ -208,6 +209,50 @@ def render_mm_ss_on_hat(display_value: str, mode: str, hat=None, color=(255, 255
     render_number(right_ones, hat=hat, x=12, y=0, color=color)
     hat.show()
 
+
+def render_air_quality_on_hat(hat=None) -> None:
+    """Fetch the current air-quality reading from the local sensor and show it briefly."""
+    if hat is None:
+        return
+
+    try:
+        response = requests.get("http://192.168.1.132/json", timeout=5)
+        response.raise_for_status()
+        payload = response.json()
+    except (requests.RequestException, ValueError):
+        payload = {}
+        return False
+
+    p25aqic_b = payload.get("p25aqic_b", "rgb(0,0,0)")
+    if isinstance(p25aqic_b, str):
+        if p25aqic_b.lower().startswith("rgb(") and p25aqic_b.endswith(")"):
+            p25aqic_b = tuple(
+                int(part.strip()) for part in p25aqic_b[4:-1].split(",") if part.strip()
+            )
+        else:
+            p25aqic_b = (0, 0, 0)
+    elif isinstance(p25aqic_b, (list, tuple)):
+        p25aqic_b = tuple(int(component) for component in p25aqic_b)
+    else:
+        p25aqic_b = (0, 0, 0)
+
+    air_quality = int(payload.get("pm2.5_aqi", 0))
+
+    hat.clear()
+    for x in range(17):
+        for y in range(7):
+            hat.set_pixel(x, y, *p25aqic_b)
+
+    digits = [int(digit) for digit in str(abs(air_quality)) or "0"]
+    x_offset = 0
+    for digit in digits[:3]:
+        render_number(digit, hat=hat, x=x_offset, y=0, color=(0, 0, 0))
+        x_offset += 5
+
+    hat.show()
+    sltime.sleep(3)
+    hat.clear()
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
@@ -235,18 +280,28 @@ def main() -> None:
     current_direction = args.direction
     services_by_day = build_service_index(timetable, current_direction)
     direction_toggle_requested = False
+    air_quality_requested = False
 
     def on_button_a_pressed() -> None:
         nonlocal direction_toggle_requested
         direction_toggle_requested = True
 
+    def on_button_x_pressed() -> None:
+        nonlocal air_quality_requested
+        air_quality_requested = True
+
     button_a.when_pressed = on_button_a_pressed
+    button_x.when_pressed = on_button_x_pressed
 
     while True:
         if direction_toggle_requested:
             current_direction = "outbound" if current_direction == "inbound" else "inbound"
             services_by_day = build_service_index(timetable, current_direction)
             direction_toggle_requested = False
+
+        if air_quality_requested:
+            render_air_quality_on_hat(hat=hat)
+            air_quality_requested = False
 
         now = datetime.now()
         departure_dt, service = find_next_service(services_by_day, now)
