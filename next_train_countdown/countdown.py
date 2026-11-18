@@ -215,13 +215,14 @@ def render_air_quality_on_hat(hat=None) -> None:
     if hat is None:
         return
 
-    try:
-        response = requests.get("http://192.168.1.132/json", timeout=5)
-        response.raise_for_status()
-        payload = response.json()
-    except (requests.RequestException, ValueError):
-        payload = {}
-        return False
+    for attempt in range(3):
+        try:
+            response = requests.get("http://192.168.1.132/json", timeout=2)
+            response.raise_for_status()
+            payload = response.json()
+            break
+        except (requests.RequestException, ValueError):
+            payload = {}
 
     p25aqic_b = payload.get("p25aqic_b", "rgb(0,0,0)")
     if isinstance(p25aqic_b, str):
