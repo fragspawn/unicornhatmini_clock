@@ -205,7 +205,10 @@ def render_mm_ss_on_hat(display_value: str, mode: str, hat=None, color=(255, 255
     right_tens = right // 10
     right_ones = right % 10
     render_number(left, hat=hat, x=0, y=0, color=color)
-    render_number(right_tens, hat=hat, x=6, y=0, color=color)
+    if platform == "3" or platform == "4":
+        render_number(right_tens, hat=hat, x=6, y=0, color=(255, 255, 255))
+    else:
+        render_number(right_tens, hat=hat, x=6, y=0, color=color)  
     render_number(right_ones, hat=hat, x=12, y=0, color=color)
     hat.show()
 
